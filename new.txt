@@ -1,0 +1,2 @@
+1) php bin/magento c:c
+2) php bin/magento c:f
